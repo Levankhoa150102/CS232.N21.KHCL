@@ -1,7 +1,7 @@
 # CS232.N21.KHCL
 
 TÍNH TOÁN ĐA PHƯƠNG TIỆN
-Nhóm X
+
 
 20521467 - Lê Văn Khoa
 
