@@ -16,4 +16,4 @@
 | :---: | --- | --- | --- | --- |
 | 1 | Lê Văn Khoa | 20521467 | 20521467@gm.uit.edu.vn | [Khoa's github](https://github.com/Levankhoa150102) |
 | 2 | Nguyễn Nguyên Khôi | 21521009 | 21521009@gm.uit.edu.vn | [davidmorrison-08-30](https://github.com/davidmorrison-08-30) |
-| 3 | Hoàng Đình Hữu | 20521384 | 20521384@gm.uit.edu.vn | [Ivan]([https://github.com/Jun0se7en](https://github.com/IvanDominis)https://github.com/IvanDominis) |
+| 3 | Hoàng Đình Hữu | 20521384 | 20521384@gm.uit.edu.vn | [Ivan](https://github.com/Jun0se7en](https://github.com/IvanDominis)https://github.com/IvanDominis) |
